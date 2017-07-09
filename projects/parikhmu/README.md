@@ -1,3 +1,2 @@
-Onid Name is parikhmu
-This is my Assignment 1
-This belongs nto munisha Pari
+My name is Munisha Parikh and my ONID is parikhmu
+
